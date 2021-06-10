@@ -1,0 +1,195 @@
+{  
+    "name": "ดูหนัง ทีวี",
+    "author": "update 8/6/2021",
+    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
+    "stations": [ 
+
+
+
+ 
+ {
+    "name": "FWMOV",
+     "image": "https://dl.dropbox.com/s/f9yzr13aswvcqim/FWmov.png?dl=0",              
+     "url": "https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8",
+     "import": false
+},
+ {   
+    "name": "FWSON",
+     "image": "https://dl.dropbox.com/s/k9b53jf6umdqcxp/FWsov.png?dl=0",              
+     "url": "https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8",
+     "import": false
+},
+ {
+        "name": "asiseries1 ",  
+        "image": "https://pbs.twimg.com/profile_images/892744367449964544/TTPUoKHv_400x400.jpg",  
+        "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist.m3u8",
+        "import": false
+},
+ 
+
+
+  {
+        "name": "asiseries2",  
+        "image": "https://pbs.twimg.com/profile_images/892744367449964544/TTPUoKHv_400x400.jpg",  
+        "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8",
+        "import": false
+},
+  
+  {      
+        "name": "SAMMURAI",  
+        "image": "https://dl.dropbox.com/s/cleqr9x26c922x9/samurai.png?dl=0",  
+        "url": "http://61.19.242.134/feed/202105171329/LC2/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+  {
+        "name": "SUN ",  
+        "image": "https://dl.dropbox.com/s/8thj6qu5qhvn89t/sun.png?dl=0",  
+        "url": "http://61.19.242.134/feed/202105171329/LC1/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+  
+ {
+        "name": "BOX FILM ",  
+        "image": "https://dl.dropbox.com/s/xegzhpjw9lnqmku/BoxFilm.png?dl=0",  
+        "url": "http://61.19.242.134/feed/202105171329/LC52/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+ {
+        "name": "Media tv  ",  
+        "image": "https://cms.dmpcdn.com/livetv/2021/02/24/cc358130-764d-11eb-9057-2d10fb4d0cf4_320.png",  
+        "url": "http://61.19.242.134/feed/202105171329/LC3/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+ {
+        "name": "SANOOK  ",  
+        "image": "https://f.ptcdn.info/741/071/000/qkd0au4553rHw6R3s3sR-o.jpg",  
+        "url": "http://61.19.242.134/feed/202105171329/LC53/index.m3u8",
+        "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+ {
+     "name": "universal",
+     "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fdadb397-290a-492d-ad1a-d4fa37ceda8c/de44y07-fe2e0ab0-25e7-41d0-81c1-fd127db22552.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkYWRiMzk3LTI5MGEtNDkyZC1hZDFhLWQ0ZmEzN2NlZGE4Y1wvZGU0NHkwNy1mZTJlMGFiMC0yNWU3LTQxZDAtODFjMS1mZDEyN2RiMjI1NTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nYb5HMKoemiISTKbP33O62GJuXOHRjQ-nMedPHPNn5s",              
+     "url": "http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8", 
+      "import": false
+},
+ 
+ {
+     "name": "FOX ไทย",
+     "image": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",              
+     "url": "https://dogtoop.com:8443/foxthai/H6QtbPMa6B/179",
+     "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+     "playInNatPlayer": "true"
+
+},
+ 
+ 
+ 
+ {
+     "name": "True Film HD ",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/c79f82bf-b9b7-441c-9eed-8186d44e58f3.png",              
+     "url": "https://fo1iptv.com/tv-player/true-film-hd.html","referer": "https://fo1iptv.com/"   
+ },
+
+ 
+ {
+     "name": "True Asian Series HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/12/17/6d717a60-2099-11ea-aaf2-eb7e2dada444_original.png",              
+     "url": "https://fo1iptv.com/tv-player/asian-series.html","referer": "https://fo1iptv.com/"
+},
+ 
+ {
+     "name": "True Thai Film HD ",
+     "image": "https://dl.dropbox.com/s/a1bitic7gc357fi/True-Thai.png?dl=0",              
+     "url": "http://119.161.100.50:8082/live/thaifilm/playlist.m3u8",
+     "import": false
+},
+ { 
+     "name": "TRUE FILM ASIA ",
+      "image": "https://wacth.officebk.co/uploads/tv_image/true-film-asia.png",              
+      "url": "https://dogtoop.com:8443/filmasia/AteNKk4dm9/165",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+},
+ 
+ 
+ { 
+     "name": "TRUE MOVIE HITS ",
+      "image": "http://cms.dmpcdn.com/livetv/2017/10/18/379fa28c-251c-46d6-a1dd-e008c2ec54d0.png",              
+      "url": "https://dogtoop.com:8443/truemoviehis/YjNvwyQPTm/689",
+      "userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S",
+      "playInNatPlayer": "true"
+},
+ { 
+     "name": "TRUE SERIES",
+      "image": "http://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_original.png",              
+      "url": "https://wacth.tv/tv-player/true-series.html","referer": "https://wacth.tv/"
+},
+ 
+ 
+
+ {
+     "name": "มังกร",
+     "image": "http://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",              
+     "url": "https://boxmovie-th.com/app-api-android/true/Mangorn/playlist.m3u8",
+     "import": false
+},
+  { 
+      "name": "Zeenung",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0124_1.png",              
+       "url": "https://cdn6.goprimetime.info//feed//chzeenung//index.m3u8",
+       "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"
+},
+  {
+     "name": "MV ลาว",
+     "image": "https://sv1.picz.in.th/images/2020/10/06/OpCwDn.png",              
+     "url": "https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8",
+     "import": false
+},
+  
+
+  {
+     "name": "MIX MAJOR",
+     "image": "https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg",              
+     "url": "https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8",
+     "import": false
+
+},
+ {
+
+"name":"CTB",
+"image":"https://dl.dropbox.com/s/txmmh0lb0u7jsfx/CTB.png?dl=0",
+"url":"https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8",
+"playInNatPlayer": "true"
+}, 
+
+{
+     "name": "CHANNEL8",
+     "image": "https://dl.dropbox.com/s/xhhnh97phobjzin/8.png?dl=0",              
+     "url": "https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8",
+     "import": false
+
+},
+  {
+
+
+"name":"Movies 5",
+"image":"https://dl.dropbox.com/s/9q4wfd7hcqknvzw/5.png?dl=0",
+"url":"http://gg.gg/aslive1",
+"desktop":"true"
+},
+{
+"name":"Movies 6",
+"image":"https://dl.dropbox.com/s/2mhuk6yww59hc8y/6.png?dl=0",
+"url":"http://gg.gg/aslive2",
+"desktop":"true"
+},
+
+{
+     "name": "Lakorn Thai",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcZ9E0PlYJdGLQ7B5J0keDN7X0N07fRhZRg&usqp=CAU",              
+     "url": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8",
+     "import": false
+
+},
+]
+}
