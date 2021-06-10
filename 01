@@ -41,6 +41,9 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="AwesomeTV" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123.png",Awesome TV
 http://tvms.me:8080/norazah/norazah/366
 
+#EXTINF:-1 tvg-id="AstroCeriaHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AstroRiaHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
