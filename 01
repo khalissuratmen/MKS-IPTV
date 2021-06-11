@@ -616,6 +616,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="TennisChannel" group-title="SPORTS" tvg-logo="https://tch.spott2.sportradar.com/assets/img/Tennischannel/TC-logo-green.png",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
+#EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 
