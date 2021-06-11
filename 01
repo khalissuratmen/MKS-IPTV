@@ -1,8 +1,9 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" url-tvg="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" refresh="3600"
 
-#EXTM3U
-#EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
+http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
