@@ -563,6 +563,9 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglishHD" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
+#EXTINF:-1 tvg-id="EURO" group-title="SPORTS" tvg-logo="https://footballmanagerstory.com/wp-content/uploads/imgs/2021/03/euro2020.png",EURO
+http://50.7.234.114:8080/0156/tracks-v1a1/mono.m3u8?token=1kfJMDsTTp
+
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
