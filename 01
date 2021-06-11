@@ -245,6 +245,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
+#EXTINF:-1 tvg-id="&FLIXHD" tvg-name="MOVIES" tvg-logo="https://tinyurl.com/46xbzvdu", group-title="Movies",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOHD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 # https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
