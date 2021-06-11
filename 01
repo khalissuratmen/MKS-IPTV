@@ -606,13 +606,13 @@ http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" group-title="SPORTS" tvg-logo="espn.png",ESPN
+#EXTINF:-1 tvg-id="ESPN" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
 https://gma2.blab.email/espn2.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2" group-title="SPORTS" tvg-logo="espn.png",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
 https://gma2.blab.email/acc.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="espn.png",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
 https://gma2.blab.email/fs2.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV" group-title="SPORTS" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",RedBull TV
