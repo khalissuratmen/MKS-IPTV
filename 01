@@ -5,6 +5,9 @@
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
+#EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 (Backup)
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+
 #EXTINF:-1 tvg-id="TV2" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
@@ -37,6 +40,7 @@ http://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion
 
 #EXTINF:-1 tvg-id="TVOkey" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+# https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 
 #EXTINF:-1 tvg-id="AwesomeTV" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123.png",Awesome TV
 http://tvms.me:8080/norazah/norazah/366
