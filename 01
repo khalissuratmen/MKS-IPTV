@@ -590,6 +590,9 @@ http://50.7.234.114:8080/0156/tracks-v1a1/mono.m3u8?token=1kfJMDsTTp
 #EXTINF:-1 tvg-id="EURO" group-title="SPORTS" tvg-logo="https://footballmanagerstory.com/wp-content/uploads/imgs/2021/03/euro2020.png",EURO 2
 https://d26aoqcz6hruef.cloudfront.net/out/v1/695705fed126486f8fe2dc9e07403de3/index.m3u8
 
+#EXTINF:-1 tvg-id="EURO" group-title="SPORTS" tvg-logo="https://footballmanagerstory.com/wp-content/uploads/imgs/2021/03/euro2020.png",EURO 3
+https://d24wdkcejnhslg.cloudfront.net/out/v1/ddd945c0558843eab39baedd569b16c6/index.m3u8
+
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
