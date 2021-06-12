@@ -564,6 +564,12 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglishHD" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
+#EXTINF:-1 tvg-id="DubaiSports1" group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/91/d9/91/91d991fc0ded44b638841ddb3a65fbe0.png",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports2" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
 #EXTINF:-1 tvg-id="EURO" group-title="SPORTS" tvg-logo="https://footballmanagerstory.com/wp-content/uploads/imgs/2021/03/euro2020.png",EURO
 http://50.7.234.114:8080/0156/tracks-v1a1/mono.m3u8?token=1kfJMDsTTp
 
