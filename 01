@@ -596,12 +596,6 @@ https://d24wdkcejnhslg.cloudfront.net/out/v1/ddd945c0558843eab39baedd569b16c6/in
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
-#EXTINF:-1 tvg-id="beINSportsMax1" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png",beIN Sports Max 1
-http://zana@2.amarteyyy.xyz/live/6262622222/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsMax1" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png",beIN Sports Max 1 (Backup)
-http://zana@9.anbdaouras.xyz/live/6262622222/index.m3u8
-
 #EXTINF:-1 tvg-id="beINSports1" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png",beIN Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
