@@ -572,31 +572,6 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglishHD" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sport Max 1HD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/88
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sport Max 1 SD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/89
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sport Max 2 HD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/90
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sport Max 2 SD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/91
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sport Max 3 HD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/92
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sport Max 3 SD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/93
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sport Max 4 HD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/94
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sport Max 4 SD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/95
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sports MAX 5 HD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/96
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sports MAX 5 SD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/97
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sports MAX 6 HD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/98
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",Bein Sports MAX 6 SD
-http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/99
-
 #EXTINF:-1 tvg-id="BTSport1" group-title="SPORTS" tvg-logo="https://www.pikpng.com/pngl/m/397-3978161_bt-sport-1-1080p-bt-sport-clipart.png",BT Sport 1
 http://212.224.98.207:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=
 
