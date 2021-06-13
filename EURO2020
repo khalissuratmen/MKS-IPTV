@@ -23,8 +23,11 @@ http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/98
 #EXTINF:-1,Bein Sports MAX 6 SD
 http://75.119.151.44:25461/nodabeinmaxxrrrrrx145/dfdsfsdfdsbvxcasggsdfbv/99
 
-Eleven_Sport2,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL
+#EXTINF:-1,Eleven_Sport2
+tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL
 
-TSN_1,tvbus://5ZbsXTkLkg7zEPC6Vnrdk5ubjpFhgWYaZTdGf6Z6oQoTmxXhJaZized89To7r
+#EXTINF:-1,TSN_1
+tvbus://5ZbsXTkLkg7zEPC6Vnrdk5ubjpFhgWYaZTdGf6Z6oQoTmxXhJaZized89To7r
 
-TSN_3,tvbus://5eJSBjV55ADhgC85AZd9q3GXToxbcfuezby55bTdpyFkNLTZmyggL7UNqo8ci
+#EXTINF:-1,TSN_3
+tvbus://5eJSBjV55ADhgC85AZd9q3GXToxbcfuezby55bTdpyFkNLTZmyggL7UNqo8ci
