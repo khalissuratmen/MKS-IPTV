@@ -37,3 +37,6 @@ http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORT TV_01 
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1,TEST
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
