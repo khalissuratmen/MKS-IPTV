@@ -6,11 +6,8 @@
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
 #EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 (Backup)
-http://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-# http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
-
-#EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 (Backup)
 http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+# http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NzY4Mzc3OTMtMjFjZS0zZGJkLWExNzAtNTI1YzZiMjYyM2Zm
