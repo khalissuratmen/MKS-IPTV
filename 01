@@ -51,6 +51,33 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="AwesomeTV" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123.png",Awesome TV
 http://tvms.me:8080/norazah/norazah/366
 
+#EXTINF:-1 tvg-id="AstroRiaHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria (Backup)
+http://ckte2.coolmyvip.club:8880/test6633/123456789/1705
+
+#EXTINF:-1 tvg-id="AstroPrimaHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima (Backup)
+http://ckte2.coolmyvip.club:8880/test6633/123456789/1702
+
+#EXTINF:-1 tvg-id="AstroWarnaHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna (Backup)
+http://ckte2.coolmyvip.club:8880/test6633/123456789/1706
+
+#EXTINF:-1 tvg-id="AstroCitraHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra (Backup)
+http://ckte2.coolmyvip.club:8880/test6633/123456789/71146
+
+#EXTINF:-1 tvg-id="AstroArenaHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Arena (Backup)
+http://ckte2.coolmyvip.club:8880/test6633/123456789/71102
+
+#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1 (Backup)
+http://ckte2.coolmyvip.club:8880/test6633/123456789/59220
+
+#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 2 (Backup)
+http://ckte2.coolmyvip.club:8880/test6633/123456789/59219
+
+#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 3 (Backup)
+http://ckte2.coolmyvip.club:8880/test6633/123456789/59218
+
+#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 4 (Backup)
+http://ckte2.coolmyvip.club:8880/test6633/123456789/59217
+
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
@@ -68,8 +95,7 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitraHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-# http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroBooHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
