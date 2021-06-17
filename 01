@@ -577,6 +577,9 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTINF:-1 tvg-id="DubaiSports3" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 3
 https://d3pecoxar1c5xs.cloudfront.net/out/v1/81470e6e34644206a0afea41923f90ef/index_1.m3u8
 
+#EXTINF:-1 tvg-id="DubaiSports3" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 4
+https://google-me.cdn.booyah.live/hls/113130/32479811.m3u8
+
 #EXTINF:-1 tvg-id="EURO" group-title="SPORTS" tvg-logo="https://footballmanagerstory.com/wp-content/uploads/imgs/2021/03/euro2020.png",EURO
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
