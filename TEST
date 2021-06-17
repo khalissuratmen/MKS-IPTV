@@ -28,3 +28,21 @@ http://85.203.33.88:80/PWallimann/zOmps01276/23451
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 4 (Backup)
 http://85.203.33.88:80/PWallimann/zOmps01276/33973
 # http://ckte2.coolmyvip.club:8880/test6633/123456789/59217
+
+#EXTINF:-1 tvg-id="een.be" tvg-name="BE: EEN FHD" tvg-logo="" group-title="UEFA EURO 2020",BE: EEN FHD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1281.ts
+
+#EXTINF:-1 tvg-id="een.be" tvg-name="BE: EEN HD" tvg-logo="" group-title="UEFA EURO 2020",BE: EEN HD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1282.ts
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="BR: SPORT TV 1" tvg-logo="https://static.epg.best/br/Sportv.br.png" group-title="UEFA EURO 2020",BR: SPORT TV 1
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/22157.ts
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="BR: SPORTV 2" tvg-logo="https://static.epg.best/br/Sportv2.br.png" group-title="UEFA EURO 2020",BR: SPORTV 2
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/22158.ts
+
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="BR: SPORT TV 3" tvg-logo="https://static.epg.best/br/SporTV3.br.png" group-title="UEFA EURO 2020",BR: SPORT TV 3
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/22159.ts
+
+#EXTINF:-1 tvg-id="ESPHDAZ" tvg-name="US: ESPN HD" tvg-logo="" group-title="UEFA EURO 2020",US: ESPN HD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/510.ts
