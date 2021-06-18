@@ -611,6 +611,84 @@ https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 #EXTINF:-1 tvg-id="beINSPORTSxtra" group-title="SPORTS" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",beIN Sports Xtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
 
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 1 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD QA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14980
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 2 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 2 HD QA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14982
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 3 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 3 HD QA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14984
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 4 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 4 HD QA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14986
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 5 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="Live: beIN Media Group",beIN SPORTS 5 HD QA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14988
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 6 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="Live: beIN Media Group",beIN SPORTS 6 HD QA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14990
+
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 7 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="Live: beIN Media Group",beIN SPORTS 7 HD QA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14992
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 1 English HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport11.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 English HD QA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15000
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 2 English HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport12.jpg" group-title="Live: beIN Media Group",beIN SPORTS 2 English HD QA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15001
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 1 HD FR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD FR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14977
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 1 FR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 FR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/5522
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 2 HD FR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15637
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 3 HD FR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14979
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 4 FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax4.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 4 FR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18218
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 5 FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax5.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 5 FR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18219
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 6 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax6.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 6 FHD FR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18220
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 7 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax7.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 7 FHD FR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18221
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 8 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax8.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 8 FHD FR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18222
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 10 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax10.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 10 FHD FR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18224
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 9 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax9.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 9 FHD FR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18223
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15719
+
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 2 HD TR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15943
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 3 HD TR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/6414
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 4 HD TR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15722
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 1 HD TR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15723
+
+#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="Live: beIN Media Group",beIN SPORTS HABER HD TR
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/17896
+
 #EXTINF:-1 tvg-id="FOXSportsHD" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
