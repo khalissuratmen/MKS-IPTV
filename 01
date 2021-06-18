@@ -51,33 +51,6 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="AwesomeTV" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123.png",Awesome TV
 http://tvms.me:8080/norazah/norazah/366
 
-#EXTINF:-1 tvg-id="AstroRiaHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria (Backup)
-http://ckte2.coolmyvip.club:8880/test6633/123456789/1705
-
-#EXTINF:-1 tvg-id="AstroPrimaHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima (Backup)
-http://ckte2.coolmyvip.club:8880/test6633/123456789/1702
-
-#EXTINF:-1 tvg-id="AstroWarnaHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna (Backup)
-http://ckte2.coolmyvip.club:8880/test6633/123456789/1706
-
-#EXTINF:-1 tvg-id="AstroCitraHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra (Backup)
-http://ckte2.coolmyvip.club:8880/test6633/123456789/71146
-
-#EXTINF:-1 tvg-id="AstroArenaHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Arena (Backup)
-http://ckte2.coolmyvip.club:8880/test6633/123456789/71102
-
-#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1 (Backup)
-http://ckte2.coolmyvip.club:8880/test6633/123456789/59220
-
-#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 2 (Backup)
-http://ckte2.coolmyvip.club:8880/test6633/123456789/59219
-
-#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 3 (Backup)
-http://ckte2.coolmyvip.club:8880/test6633/123456789/59218
-
-#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="BACKUP" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 4 (Backup)
-http://ckte2.coolmyvip.club:8880/test6633/123456789/59217
-
 #EXTINF:-1 tvg-id="AstroCeriaHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
@@ -709,52 +682,3 @@ http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
-
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Horror 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51297
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Horror 2 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51298
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Horror 3 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/47694
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Live 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/45763
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Live 3 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/47697
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Action 3 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51301
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Drama   3 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/47695
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Classics 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51555
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Movies 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51560
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Theatre 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51561
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Comedy 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/45762
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Comedy 3 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51557
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Arabic Movies 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/45758
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Arabic Movies 2 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/45757
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Arabic Series 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51375
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Arabic Series 2 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51376
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Arabic Series 3 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51377
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Arabic Series 4 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51378
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ KIDS 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/45756
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ KIDS  2 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/45755
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ KIDS  3 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/51302
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Tom & Jerry 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/53286
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ Masha & the Bear 
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/53285
-#EXTINF:-1 group-title="NETFLIX" tvg-logo="https://midiaresearch.com/storage/uploads/blog/featured/1177/cover_image-1594998634.png",Netflix+╰☆╮911™ WWE   
-http://cobraa.in:8000/kniptv21/qwerfcvb25op/47696
