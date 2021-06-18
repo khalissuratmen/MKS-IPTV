@@ -579,6 +579,13 @@ https://d3pecoxar1c5xs.cloudfront.net/out/v1/81470e6e34644206a0afea41923f90ef/in
 #EXTINF:-1 tvg-id="DubaiSports3" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 4
 https://google-me.cdn.booyah.live/hls/113130/32479811.m3u8
 
+#EXTINF:-1 tvg-id="SonyTen1" group-title="SPORTS" tvg-logo="https://i.pinimg.com/474x/8a/a5/e1/8aa5e124922075d475bfb50f0102829e.jpg",Sony Ten 1
+http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SonyTen2" group-title="SPORTS" tvg-logo="https://www.seekpng.com/png/detail/86-865497_sony-ten2-sony-ten-2-logo.png",Sony Ten 2
+http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="EURO" group-title="SPORTS" tvg-logo="https://footballmanagerstory.com/wp-content/uploads/imgs/2021/03/euro2020.png",EURO
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1281.ts
 
