@@ -732,6 +732,17 @@ http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18190
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
 http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/28741
 
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn1ca.jpg" group-title="SPORTS",TSN 1 HD CA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9032
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn2ca.jpg" group-title="SPORTS",TSN 2 HD CA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9033
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn3ca.jpg" group-title="SPORTS",TSN 3 HD CA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9034
+#EXTINF:-1 tvg-id="Kan11.il" tvg-name="TSN 4 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn4ca.jpg" group-title="SPORTS",TSN 4 HD CA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9035
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn5ca.jpg" group-title="SPORTS",TSN 5 HD CA
+http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9036
+
 #EXTINF:-1 tvg-id="SportTV1" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",Sport TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
