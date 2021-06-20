@@ -594,16 +594,6 @@ http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-id="SonyTen2" group-title="SPORTS" tvg-logo="https://www.seekpng.com/png/detail/86-865497_sony-ten2-sony-ten-2-logo.png",Sony Ten 2
 http://103.81.104.118/hls/stream39.m3u8
 
-
-#EXTINF:-1 tvg-id="EURO" group-title="SPORTS" tvg-logo="https://footballmanagerstory.com/wp-content/uploads/imgs/2021/03/euro2020.png",EURO
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1281.ts
-
-#EXTINF:-1 tvg-id="EURO" group-title="SPORTS" tvg-logo="https://footballmanagerstory.com/wp-content/uploads/imgs/2021/03/euro2020.png",EURO 2
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1282.ts
-
-#EXTINF:-1 tvg-id="EURO" group-title="SPORTS" tvg-logo="https://footballmanagerstory.com/wp-content/uploads/imgs/2021/03/euro2020.png",EURO 3
-http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/22157.ts
-
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
