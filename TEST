@@ -370,3 +370,12 @@ http://9.anbdaouras.xyz/live/88824257/index.m3u8??hubtvapp.m3u8
 
 #EXTINF:-1,TEST 3
 https://de623a8b9bacb203.mediapackage.ap-southeast-1.amazonaws.com/out/v1/53d302267cd64627b5cbea771338f857/index.m3u8?hubtvapp.m3u8
+
+#EXTINF:-1 group-title="Спорт",Russia-Extra╰ ☆ ╮911™ Sky Sport 2
+http://185.234.111.37:8880/play/a04p
+#EXTINF:-1 group-title="Спорт",Russia-Extra╰ ☆ ╮911™ Sky Sport 1 HD
+http://185.234.111.37:8880/play/a04w
+#EXTINF:-1 group-title="Спорт",Russia-Extra╰ ☆ ╮911™ Sky Sport 2 HD
+http://185.234.111.37:8880/play/a056
+#EXTINF:-1 group-title="Спорт",Russia-Extra╰ ☆ ╮911™ Sky Sport 1
+http://185.234.111.37:8880/play/a05e
