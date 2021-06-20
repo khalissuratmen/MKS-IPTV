@@ -361,3 +361,12 @@ http://ott-prime.tv:8080/9kByJKhWH5/eb7udEkQXa/241146
 
 #EXTINF:-1,Nat Geo People
 http://58.65.171.202:8000/play/10503/index.m3u8 
+
+#EXTINF:-1,TEST 1
+http://11.ardounar.xyz/live/6161655/index.m3u8??hubtvapp.m3u8
+
+#EXTINF:-1,TEST 2
+http://9.anbdaouras.xyz/live/88824257/index.m3u8??hubtvapp.m3u8
+
+#EXTINF:-1,TEST 3
+https://de623a8b9bacb203.mediapackage.ap-southeast-1.amazonaws.com/out/v1/53d302267cd64627b5cbea771338f857/index.m3u8?hubtvapp.m3u8
