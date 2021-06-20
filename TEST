@@ -358,3 +358,6 @@ http://ott-prime.tv:8080/9kByJKhWH5/eb7udEkQXa/241144
 http://ott-prime.tv:8080/9kByJKhWH5/eb7udEkQXa/241145
 #EXTINF:-1 tvg-id="" tvg-name="MY: Hypp Sensasi HD" tvg-logo="http://dmtn.tv:8080/images/c9103a093f2e3a014ff5d45ed76c891c.png" group-title=" ASTRO | LIVE",MY: Hypp Sensasi HD
 http://ott-prime.tv:8080/9kByJKhWH5/eb7udEkQXa/241146
+
+#EXTINF:-1,Nat Geo People
+http://58.65.171.202:8000/play/10503/index.m3u8 
