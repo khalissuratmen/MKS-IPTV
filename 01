@@ -567,6 +567,37 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglishHD" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+
+#EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOXSportsHD" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports2HD" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports3HD" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BTSport1" group-title="SPORTS" tvg-logo="https://www.pikpng.com/pngl/m/397-3978161_bt-sport-1-1080p-bt-sport-clipart.png",BT Sport 1
 http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/1991
 
@@ -594,128 +625,6 @@ http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-id="SonyTen2" group-title="SPORTS" tvg-logo="https://www.seekpng.com/png/detail/86-865497_sony-ten2-sony-ten-2-logo.png",Sony Ten 2
 http://103.81.104.118/hls/stream39.m3u8
 
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-
-#EXTINF:-1 tvg-id="beINSports1" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png",beIN Sports 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
-
-#EXTINF:-1 tvg-id="beINSPORTS2" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
-
-#EXTINF:-1 tvg-id="beINSPORTSxtra" group-title="SPORTS" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",beIN Sports Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 1 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPORTS",beIN SPORTS 1 HD QA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14980
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 2 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="SPORTS",beIN SPORTS 2 HD QA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14982
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 3 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="SPORTS",beIN SPORTS 3 HD QA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14984
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 4 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="SPORTS",beIN SPORTS 4 HD QA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14986
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 5 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport5.jpg" group-title="SPORTS",beIN SPORTS 5 HD QA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14988
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 6 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport6.jpg" group-title="SPORTS",beIN SPORTS 6 HD QA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14990
-
-#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="beIN SPORTS 7 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport7.jpg" group-title="SPORTS",beIN SPORTS 7 HD QA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14992
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 1 English HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport11.jpg" group-title="SPORTS",beIN SPORTS 1 English HD QA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15000
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 2 English HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport12.jpg" group-title="SPORTS",beIN SPORTS 2 English HD QA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15001
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 1 HD FR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPORTS",beIN SPORTS 1 HD FR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14977
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 1 FR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPORTS",beIN SPORTS 1 FR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/5522
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="SPORTS",beIN SPORTS 2 HD FR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15637
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="SPORTS",beIN SPORTS 3 HD FR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/14979
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 4 FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax4.jpg" group-title="SPORTS",beIN SPORTS MAX 4 FR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18218
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 5 FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax5.jpg" group-title="SPORTS",beIN SPORTS MAX 5 FR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18219
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 6 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax6.jpg" group-title="SPORTS",beIN SPORTS MAX 6 FHD FR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18220
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 7 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax7.jpg" group-title="SPORTS",beIN SPORTS MAX 7 FHD FR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18221
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 8 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax8.jpg" group-title="SPORTS",beIN SPORTS MAX 8 FHD FR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18222
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 10 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax10.jpg" group-title="SPORTS",beIN SPORTS MAX 10 FHD FR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18224
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 9 FHD FR" tvg-logo="https://picon-13398.kxcdn.com/beinmax9.jpg" group-title="SPORTS",beIN SPORTS MAX 9 FHD FR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18223
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="SPORTS",beIN SPORTS 1 HD TR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15719
-
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="SPORTS",beIN SPORTS 2 HD TR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15943
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="SPORTS",beIN SPORTS 3 HD TR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/6414
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS 4 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="SPORTS",beIN SPORTS 4 HD TR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15722
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS MAX 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinmax1.jpg" group-title="SPORTS",beIN SPORTS MAX 1 HD TR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/15723
-
-#EXTINF:-1 tvg-id="SPORTS" tvg-name="beIN SPORTS HABER HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsportshaber.jpg" group-title="SPORTS",beIN SPORTS HABER HD TR
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/17896
-
-#EXTINF:-1 tvg-id="FOXSportsHD" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="FOXSports2HD" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="FOXSports3HD" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Arena
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-# http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-# http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-# http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-# http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ESPN" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
 http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9023
 
@@ -727,17 +636,6 @@ http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18190
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
 http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/28741
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn1ca.jpg" group-title="SPORTS",TSN 1 HD CA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9032
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn2ca.jpg" group-title="SPORTS",TSN 2 HD CA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9033
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn3ca.jpg" group-title="SPORTS",TSN 3 HD CA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9034
-#EXTINF:-1 tvg-id="Kan11.il" tvg-name="TSN 4 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn4ca.jpg" group-title="SPORTS",TSN 4 HD CA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9035
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn5ca.jpg" group-title="SPORTS",TSN 5 HD CA
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9036
 
 #EXTINF:-1 tvg-id="SportTV1" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",Sport TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
