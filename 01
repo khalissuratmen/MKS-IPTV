@@ -591,17 +591,17 @@ http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWM4OWUzMjYtNWI1OC0zN2RiLTg5YzEtNTgxYzY2YWNlOTc0
-#EXTINF:-1 group-title="Sports" tvg-id="706" tvg-chno="706" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
+#EXTINF:-1 group-title="SPORTS" tvg-id="706" tvg-chno="706" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
 http://1.9.62.173/PLTV/88888888/224/3221227608/3221227608.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWM4OWUzMjYtNWI1OC0zN2RiLTg5YzEtNTgxYzY2YWNlOTc0
-#EXTINF:-1 group-title="Sports" tvg-id="707" tvg-chno="707" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-id="707" tvg-chno="707" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
 http://1.9.62.173/PLTV/88888888/224/3221227726/3221227726.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWM4OWUzMjYtNWI1OC0zN2RiLTg5YzEtNTgxYzY2YWNlOTc0
-#EXTINF:-1 group-title="Sports" tvg-id="708" tvg-chno="708" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
+#EXTINF:-1 group-title="SPORTS" tvg-id="708" tvg-chno="708" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
 http://1.9.62.173/PLTV/88888888/224/3221227634/3221227634.mpd
 
 #EXTINF:-1 tvg-id="unifiSports1" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034140282its.png",unifi Sports 1
