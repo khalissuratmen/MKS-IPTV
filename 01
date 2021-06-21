@@ -651,23 +651,17 @@ https://d3pecoxar1c5xs.cloudfront.net/out/v1/81470e6e34644206a0afea41923f90ef/in
 #EXTINF:-1 tvg-id="DubaiSports3" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 4
 https://google-me.cdn.booyah.live/hls/113130/32479811.m3u8
 
-#EXTINF:-1 tvg-id="SonyTen1" group-title="SPORTS" tvg-logo="https://i.pinimg.com/474x/8a/a5/e1/8aa5e124922075d475bfb50f0102829e.jpg",Sony Ten 1
-http://103.81.104.118/hls/stream40.m3u8
-
-#EXTINF:-1 tvg-id="SonyTen2" group-title="SPORTS" tvg-logo="https://www.seekpng.com/png/detail/86-865497_sony-ten2-sony-ten-2-logo.png",Sony Ten 2
-http://103.81.104.118/hls/stream39.m3u8
-
 #EXTINF:-1 tvg-id="ESPN" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9023
+http://oqab.life:8080/live/6677/6677/330.ts
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/9022
+http://oqab.life:8080/live/6677/6677/331.ts
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/18190
+http://oqab.life:8080/live/6677/6677/351.ts
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
-http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/28741
+http://oqab.life:8080/live/6677/6677/350.ts
 
 #EXTINF:-1 tvg-id="SportTV1" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",Sport TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
