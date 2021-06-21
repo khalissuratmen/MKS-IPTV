@@ -1,9 +1,12 @@
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="US: ESPN U HD" tvg-logo="https://i.ibb.co/C8XCynY/espnu.png" group-title=" USA SPORT | LIVE ",US: ESPN U HD
-http://dmtn.tv:8080/Ny21eoDNkm/9eJtcnjXzN/70848
-
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="https://i.ibb.co/P4kQtx2/espn.png" group-title=" USA SPORT | LIVE ",US: ESPN 1 HD
-http://dmtn.tv:8080/Ny21eoDNkm/9eJtcnjXzN/70853
-
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="US: ESPN 2 HD" tvg-logo="http://dmtn.tv:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title=" USA SPORT | LIVE ",US: ESPN 2 HD
-http://dmtn.tv:8080/Ny21eoDNkm/9eJtcnjXzN/34672
-
+#EXTINF:-1 tvg-id="I614.15451.schedulesdirect.org" tvg-name="USA: ESPN (L)" tvg-logo="" group-title="CA | US  SPORTS",USA: ESPN (L)
+http://comet.watch:8880/6VNfeJswK2/m1OVuJ3xI5/89281
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA: ESPN" tvg-logo="" group-title="CA | US  SPORTS",USA: ESPN
+http://comet.watch:8880/6VNfeJswK2/m1OVuJ3xI5/69036
+#EXTINF:-1 tvg-id="I209.12444.schedulesdirect.org" tvg-name="USA: ESPN 2(L)" tvg-logo="" group-title="CA | US  SPORTS",USA: ESPN 2(L)
+http://comet.watch:8880/6VNfeJswK2/m1OVuJ3xI5/89282
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="USA: ESPN 2" tvg-logo="" group-title="CA | US  SPORTS",USA: ESPN 2
+http://comet.watch:8880/6VNfeJswK2/m1OVuJ3xI5/65350
+#EXTINF:-1 tvg-id="I208.45654.schedulesdirect.org" tvg-name="USA: ESPNU (L)" tvg-logo="" group-title="CA | US  SPORTS",USA: ESPNU (L)
+http://comet.watch:8880/6VNfeJswK2/m1OVuJ3xI5/89283
+#EXTINF:-1 tvg-id="espnu.psvue" tvg-name="USA: ESPNU" tvg-logo="" group-title="CA | US  SPORTS",USA: ESPNU
+http://comet.watch:8880/6VNfeJswK2/m1OVuJ3xI5/78208
