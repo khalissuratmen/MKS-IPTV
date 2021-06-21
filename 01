@@ -629,6 +629,17 @@ http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcwN2M3OWMtY2I5Ny0zN2E0LWEwMTYtNjAxYjdiYjNiMjk3
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
+#EXTINF:-1 tvg-id="ESPN" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
+http://oqab.life:8080/live/6677/6677/330.ts
+
+#EXTINF:-1 tvg-id="ESPN2" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
+http://oqab.life:8080/live/6677/6677/331.ts
+
+#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
+http://oqab.life:8080/live/6677/6677/351.ts
+
+#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
+http://oqab.life:8080/live/6677/6677/350.ts
 
 #EXTINF:-1 tvg-id="BTSport1" group-title="SPORTS" tvg-logo="https://www.pikpng.com/pngl/m/397-3978161_bt-sport-1-1080p-bt-sport-clipart.png",BT Sport 1
 http://85.203.33.88:80/QIfpwiQBrf8222/ilg5yN814/1991
@@ -650,18 +661,6 @@ https://d3pecoxar1c5xs.cloudfront.net/out/v1/81470e6e34644206a0afea41923f90ef/in
 
 #EXTINF:-1 tvg-id="DubaiSports3" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 4
 https://google-me.cdn.booyah.live/hls/113130/32479811.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
-http://oqab.life:8080/live/6677/6677/330.ts
-
-#EXTINF:-1 tvg-id="ESPN2" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
-http://oqab.life:8080/live/6677/6677/331.ts
-
-#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
-http://oqab.life:8080/live/6677/6677/351.ts
-
-#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
-http://oqab.life:8080/live/6677/6677/350.ts
 
 #EXTINF:-1 tvg-id="SportTV1" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",Sport TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
