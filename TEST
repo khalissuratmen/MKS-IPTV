@@ -274,10 +274,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="RedbyHBO" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/608_1920x1080_HTV.png",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
-#EXTINF:-1 tvg-id="&FLIXHD" tvg-name="Movies" tvg-logo="https://tinyurl.com/46xbzvdu", group-title="MOVIES",&FLIX HD
+#EXTINF:-1 tvg-id="&FLIXHD" tvg-name="Movies" tvg-logo="https://tinyurl.com/46xbzvdu", group-title="Movies",&FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="PRIVEHD" tvg-name="Movies" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/10/privehd-logo.jpg" group-title="MOVIES",&PRIVé HD
+#EXTINF:-1 tvg-id="PRIVEHD" tvg-name="Movies" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/10/privehd-logo.jpg" group-title="Movies",&PRIVé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
