@@ -81,7 +81,7 @@ http://192.111.140.6:8142
 http://astro2.rastream.com/sinar
 
 #EXTINF: -1 tvg-id="suriafm" tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170851/27341432.png" group-title="RADIO 2", Suria FM
-http://starrfm.rastream.com/starrfm-suria.android
+https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 
 #EXTINF:-1 tvg-id="starfm" tvg-logo="https://i.imgur.com/v2JtJO2.png" group-title="RADIO 2", Star FM
 #https://starrfm.rastream.com/starrfm-988
