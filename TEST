@@ -1,10 +1,48 @@
-#EXTINF:-1 tvg-id="" tvg-name="TSN 1 HD CA" tvg-logo="" group-title="Canada",TSN 1 HD CA
-http://client.safeip.live:8080/LZMxzAuUkD/BDUC7NnGpS/579
-#EXTINF:-1 tvg-id="" tvg-name="TSN 2 HD CA" tvg-logo="" group-title="Canada",TSN 2 HD CA
-http://client.safeip.live:8080/LZMxzAuUkD/BDUC7NnGpS/580
-#EXTINF:-1 tvg-id="" tvg-name="TSN 3 HD CA" tvg-logo="" group-title="Canada",TSN 3 HD CA
-http://client.safeip.live:8080/LZMxzAuUkD/BDUC7NnGpS/581
-#EXTINF:-1 tvg-id="" tvg-name="TSN 4 HD CA" tvg-logo="" group-title="Canada",TSN 4 HD CA
-http://client.safeip.live:8080/LZMxzAuUkD/BDUC7NnGpS/582
-#EXTINF:-1 tvg-id="" tvg-name="TSN 5 HD CA" tvg-logo="" group-title="Canada",TSN 5 HD CA
-http://client.safeip.live:8080/LZMxzAuUkD/BDUC7NnGpS/583
+#EXTINF:-1,CA:-----|SPORTS|--------------------------------------
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/60630
+#EXTINF:-1,CA002:Sportnet Ontario HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3067
+#EXTINF:-1,CA008:NFL Network HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3061
+#EXTINF:-1,CA032:NBA HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3037
+#EXTINF:-1,CA051:Sportsnet World HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3018
+#EXTINF:-1,CA059:SPORTSNET-360
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3010
+#EXTINF:-1,CA060:SPORTSNET EAST HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3009
+#EXTINF:-1,CA061:SPORTSNET-ONE
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3008
+#EXTINF:-1,CA062:SPORTSNET WEST HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3007
+#EXTINF:-1,CA087:SportsNet PPV
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/30227
+#EXTINF:-1,CA065:TSN-1 HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3004
+#EXTINF:-1,CA066:TSN-2 HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3003
+#EXTINF:-1,CA067:TSN-3 HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3002
+#EXTINF:-1,CA068:TSN-4 HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3001
+#EXTINF:-1,CA069:TSN-5 HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/3000
+#EXTINF:-1,CA077:TVA Sports HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/2992
+#EXTINF:-1,CA224:TVA Sports 2
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/65933
+#EXTINF:-1,CA082:RDS (FR)
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/2987
+#EXTINF:-1,CA136:Bein Sports HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/30178
+#EXTINF:-1,CA139:GOLF HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/30175
+#EXTINF:-1,CA182:RDS 2 (FR)
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/30132
+#EXTINF:-1,CA188:Sportnet Pacific HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/30126
+#EXTINF:-1,CA203:MLB NETWORK HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/30111
+#EXTINF:-1,CA218:Sportsman Canada HD
+http://meu02.cularu.com:8880/wsy1y146/rT4gE82SHS/30096
