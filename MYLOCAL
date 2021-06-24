@@ -1,0 +1,42 @@
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/unifitv.xml" url-tvg="https://weareblahs.github.io/epg/unifitv.xml" refresh="3600"
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWM4OWUzMjYtNWI1OC0zN2RiLTg5YzEtNTgxYzY2YWNlOTc0
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
+http://1.9.62.173/PLTV/88888888/224/3221227769/3221227769.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWM4OWUzMjYtNWI1OC0zN2RiLTg5YzEtNTgxYzY2YWNlOTc0
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
+http://1.9.62.173/PLTV/88888888/224/3221227490/3221227490.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWM4OWUzMjYtNWI1OC0zN2RiLTg5YzEtNTgxYzY2YWNlOTc0
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
+http://1.9.62.173/PLTV/88888888/224/3221227779/3221227779.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWM4OWUzMjYtNWI1OC0zN2RiLTg5YzEtNTgxYzY2YWNlOTc0
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="107" tvg-chno="107" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
+http://1.9.62.173/PLTV/88888888/224/3221227515/3221227515.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWM4OWUzMjYtNWI1OC0zN2RiLTg5YzEtNTgxYzY2YWNlOTc0
+#EXTINF:-1 group-title="Chinese Variety" tvg-id="108" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
+http://1.9.62.173/PLTV/88888888/224/3221227480/3221227480.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWM4OWUzMjYtNWI1OC0zN2RiLTg5YzEtNTgxYzY2YWNlOTc0
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="109" tvg-chno="109" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
+http://1.9.62.173/PLTV/88888888/224/3221227483/3221227483.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWM4OWUzMjYtNWI1OC0zN2RiLTg5YzEtNTgxYzY2YWNlOTc0
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="113" tvg-chno="113" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
+http://1.9.62.173/PLTV/88888888/224/3221227558/3221227558.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWM4OWUzMjYtNWI1OC0zN2RiLTg5YzEtNTgxYzY2YWNlOTc0
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="114" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah
+http://1.9.62.173/PLTV/88888888/224/3221227507/3221227507.mpd
