@@ -243,7 +243,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YjY2OTg2OWQtMTViOC0zMmFhLWJhNWItZjRjMzFkZTZiZTBm
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZGQ1YTAyN2MtMDRkOC0zYmE1LWFkY2QtZDM2NWE2ZWVjMWY2
 #EXTINF:-1 group-title="MOVIES" tvg-id="401" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",FOX Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 
