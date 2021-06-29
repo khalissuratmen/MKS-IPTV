@@ -1,10 +1,10 @@
-#EXTINF:-1,CA| TSN 1 | HD
-http://starshare.live:8080/live/449988/449988/1565.ts
-#EXTINF:-1,CA| TSN 2 | HD
-http://starshare.live:8080/live/449988/449988/1566.ts
-#EXTINF:-1,CA| TSN 3 | HD
-http://starshare.live:8080/live/449988/449988/1567.ts
-#EXTINF:-1,CA| TSN 4 | HD
-http://starshare.live:8080/live/449988/449988/1568.ts
-#EXTINF:-1,CA| TSN 5 | HD
-http://starshare.live:8080/live/449988/449988/1569.ts
+#EXTINF:-1,CA: TV5 HD
+http://portal.alliptvapp.com:8080/613607218194/666579067773/25755
+#EXTINF:-1,CA: TSN 5 HD
+http://portal.alliptvapp.com:8080/613607218194/666579067773/25753
+#EXTINF:-1,CA: TSN 4 HD
+http://portal.alliptvapp.com:8080/613607218194/666579067773/25752
+#EXTINF:-1,CA: TSN 3 HD
+http://portal.alliptvapp.com:8080/613607218194/666579067773/25751
+#EXTINF:-1,CA: TSN 2 HD
+http://portal.alliptvapp.com:8080/613607218194/666579067773/25750
