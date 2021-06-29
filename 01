@@ -653,25 +653,25 @@ http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
 #EXTINF:-1 tvg-id="ESPN" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
-http://oqab.life:8080/live/6677/6677/330.ts
+http://iptv.tvmalaysia.cc:80/321456/321456/6613
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
-http://oqab.life:8080/live/6677/6677/331.ts
+http://iptv.tvmalaysia.cc:80/321456/321456/6610
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
-http://oqab.life:8080/live/6677/6677/351.ts
+http://iptv.tvmalaysia.cc:80/321456/321456/6611
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
-http://oqab.life:8080/live/6677/6677/350.ts
+http://iptv.tvmalaysia.cc:80/321456/321456/6612
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-1 HD
-http://portal.alliptvapp.com:8080/613607218194/666579067773/25750
+http://iptv.tvmalaysia.cc:80/321456/321456/8923
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-2 HD
-http://portal.alliptvapp.com:8080/613607218194/666579067773/25750
+http://iptv.tvmalaysia.cc:80/321456/321456/8924
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-3 HD
-http://portal.alliptvapp.com:8080/613607218194/666579067773/25751
+http://iptv.tvmalaysia.cc:80/321456/321456/8925
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-4 HD
-http://portal.alliptvapp.com:8080/613607218194/666579067773/25752
+http://iptv.tvmalaysia.cc:80/321456/321456/8926
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-5 HD
 http://portal.alliptvapp.com:8080/613607218194/666579067773/25753
 
