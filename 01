@@ -1,31 +1,31 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" url-tvg="https://raw.githubusercontent.com/khalissuratmen/MKS-IPTV/main/EPG" refresh="3600"
 
-#EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
+#EXTINF:-1 tvg-id="101" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmRhNjM0YjktMTE5MS0zNzhkLTg2ZTQtMzhkZmZkMTcwYmZj
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
-#EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 (Backup)
+#EXTINF:-1 tvg-id="101" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 (Backup)
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV2" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+#EXTINF:-1 tvg-id="102" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 # #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 # #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=MmRhNjM0YjktMTE5MS0zNzhkLTg2ZTQtMzhkZmZkMTcwYmZj
 # http://1.9.62.158/PLTV/88888888/224/3221227490/3221227490.mpd
 
-#EXTINF:-1 tvg-id="TV2" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 (Backup)
+#EXTINF:-1 tvg-id="102" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 (Backup)
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV3" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
+#EXTINF:-1 tvg-id="103" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmRhNjM0YjktMTE5MS0zNzhkLTg2ZTQtMzhkZmZkMTcwYmZj
 http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd|User-Agent=DmpPlayer/20.0.25.15 (Android 7.1.2; accd121c-2f28-43fd-82ec-5165bdd83549; SM-G955F)
 # http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd|User-Agent=
 
-#EXTINF:-1 tvg-id="TV3" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (Backup)
+#EXTINF:-1 tvg-id="103" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (Backup)
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
@@ -55,19 +55,19 @@ http://tvms.me:8080/norazah/norazah/366
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroRiaHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria
+#EXTINF:-1 tvg-id="104" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroPrimaHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
+#EXTINF:-1 tvg-id="105" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroOasisHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Oasis
+#EXTINF:-1 tvg-id="106" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroWarnaHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna
+#EXTINF:-1 tvg-id="107" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroCitraHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra
+#EXTINF:-1 tvg-id="108" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroBooHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo
@@ -579,7 +579,8 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaHD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Arena
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
+http://iptv.tvmalaysia.cc:80/321456/321456/6707
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
 # http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png",beIN Sports 1
@@ -593,22 +594,26 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 # https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+http://iptv.tvmalaysia.cc:80/321456/321456/6708
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
  
 #EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+http://iptv.tvmalaysia.cc:80/321456/321456/6710
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
 #http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+http://iptv.tvmalaysia.cc:80/321456/321456/6711
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+http://iptv.tvmalaysia.cc:80/321456/321456/6712
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
@@ -652,6 +657,23 @@ http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmRhNjM0YjktMTE5MS0zNzhkLTg2ZTQtMzhkZmZkMTcwYmZj
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
+############### BEIN SPORTS #################
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 1
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/674
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 2
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/675
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 3
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/676
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 4
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/677
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 5
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/678
+
 XTINF:-1 group-title="SPORTS" tvg-name="|BE| Eleven Sports 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",Eleven Sports 1 HD
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
@@ -659,16 +681,16 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
-http://starshare.live:8080/live/449988/449988/1011.ts
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
-http://iptv.tvmalaysia.cc:80/321456/321456/6610
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3622
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
-http://starshare.live:8080/live/449988/449988/7371.ts
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1161
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
-http://iptv.tvmalaysia.cc:80/321456/321456/6612
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/727
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-1 HD
 http://iptv.tvmalaysia.cc:80/321456/321456/8923
