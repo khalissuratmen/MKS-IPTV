@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="3600"
 
-#EXTM3U
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YTAzN2E3ZTItZDc5Ni0zNTI4LWE0NDUtNzczZTQxNDg1YTg3
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
