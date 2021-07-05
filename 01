@@ -52,7 +52,8 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 http://tvms.me:8080/norazah/norazah/366
 
 #EXTINF:-1 tvg-id="611" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
+# http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria
