@@ -56,14 +56,20 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
 # http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-id="611" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria (Backup)
+#EXTINF:-1 tvg-id="611" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria(Backup)
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
+#EXTINF:-1 tvg-id="104" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Ria(Backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
+
 #EXTINF:-1 tvg-id="105" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-id="105" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Prima(Backup)
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="106" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
@@ -71,11 +77,20 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="107" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
+#EXTINF:-1 tvg-id="107" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Warna(Backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
+
 #EXTINF:-1 tvg-id="108" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
+#EXTINF:-1 tvg-id="108" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Citra(Backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
+
 #EXTINF:-1 tvg-id="404" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="404" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo(Backup)
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
