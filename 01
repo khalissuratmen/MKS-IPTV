@@ -654,7 +654,7 @@ http://1.9.62.173/PLTV/88888888/224/3221227608/3221227608.mpd
 http://1.9.62.173/PLTV/88888888/224/3221227726/3221227726.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="816" tvg-chno="816" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",JDT VS RATCHABURI
-https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6791
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="816" tvg-chno="816" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",JDT VS RATCHABURI
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
