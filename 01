@@ -587,8 +587,8 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Arena
-http://iptv.tvmalaysia.cc:80/321456/321456/6707
-# http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
+# http://iptv.tvmalaysia.cc:80/321456/321456/6707
 # http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="818" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png",beIN Sports 1
