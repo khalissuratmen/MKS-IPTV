@@ -10,6 +10,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd
 http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289627
 
 #EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://toppng.com/uploads/preview/visit-uefa-euro-2020-11568981573bfa5kxitr2.png",EURO FINAL 2020 2
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289051
+
+#EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://toppng.com/uploads/preview/visit-uefa-euro-2020-11568981573bfa5kxitr2.png",EURO FINAL 2020 3
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
