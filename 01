@@ -6,10 +6,10 @@
 #EXTINF:-1 group-title="Preview Channel" tvg-id="100" tvg-chno="100" tvg-logo="https://i.pinimg.com/originals/06/88/4c/06884c6f8d44cb3c03ab5e84ee85e593.png",MKS IPTV 
 http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd
 
-#EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/m/23-237350_uefa-euro-2020-logo-euro-2020-logo-png.png",EURO FINAL 2020
+#EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/m/553-5532437_euro-2020-logo-png-transparent-png.png",EURO FINAL 2020
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
-#EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/m/23-237350_uefa-euro-2020-logo-euro-2020-logo-png.png",EURO FINAL 2020 2
+#EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/m/553-5532437_euro-2020-logo-png-transparent-png.png",EURO FINAL 2020 2
 http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289627
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
