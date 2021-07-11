@@ -6,11 +6,11 @@
 #EXTINF:-1 group-title="Preview Channel" tvg-id="100" tvg-chno="100" tvg-logo="https://i.pinimg.com/originals/06/88/4c/06884c6f8d44cb3c03ab5e84ee85e593.png",MKS IPTV 
 http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd
 
-#EXTINF:-1 tvg-id="811" group-title="SPORTS" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20210504/pngtree-copa-america-background-in-argentina-with-navy-blue-color-image_702945.jpg",COPA FINAL 
-http://ctn.bounbrzouw.xyz/live/0010871100/index.m3u8
+#EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/m/23-237350_uefa-euro-2020-logo-euro-2020-logo-png.png",EURO FINAL 2020
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
-#EXTINF:-1 tvg-id="811" group-title="SPORTS" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20210504/pngtree-copa-america-background-in-argentina-with-navy-blue-color-image_702945.jpg",COPA FINAL 2
-http://164.68.124.111/fs1.m3u8
+#EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://www.pngitem.com/pimgs/m/23-237350_uefa-euro-2020-logo-euro-2020-logo-png.png",EURO FINAL 2020 2
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
@@ -617,9 +617,10 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Arena
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
 # http://iptv.tvmalaysia.cc:80/321456/321456/6707
-# http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="818" group-title="SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png",beIN Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
