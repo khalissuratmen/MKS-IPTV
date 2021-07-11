@@ -9,6 +9,9 @@ http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd
 #EXTINF:-1 tvg-id="811" group-title="SPORTS" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20210504/pngtree-copa-america-background-in-argentina-with-navy-blue-color-image_702945.jpg",COPA FINAL 
 http://ctn.bounbrzouw.xyz/live/0010871100/index.m3u8
 
+#EXTINF:-1 tvg-id="811" group-title="SPORTS" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20210504/pngtree-copa-america-background-in-argentina-with-navy-blue-color-image_702945.jpg",COPA FINAL 2
+http://164.68.124.111/fs1.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
