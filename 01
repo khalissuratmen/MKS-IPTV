@@ -398,10 +398,10 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",Sony ONE MY
+#EXTINF:-1 tvg-id="393" group-title="ENTERTAINMENT" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",Sony ONE MY
 http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",Sony ONE ID
+#EXTINF:-1 tvg-id="393" group-title="ENTERTAINMENT" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",Sony ONE ID
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WAKUWAKUJAPAN" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/813_1920x1080_HTV.png",WakuWaku Japan 
