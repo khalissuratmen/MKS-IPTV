@@ -6,15 +6,6 @@
 #EXTINF:-1 group-title="Preview Channel" tvg-id="100" tvg-chno="100" tvg-logo="https://i.pinimg.com/originals/06/88/4c/06884c6f8d44cb3c03ab5e84ee85e593.png",MKS IPTV 
 http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd
 
-#EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://toppng.com/uploads/preview/visit-uefa-euro-2020-11568981573bfa5kxitr2.png",EURO FINAL 2020
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289627
-
-#EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://toppng.com/uploads/preview/visit-uefa-euro-2020-11568981573bfa5kxitr2.png",EURO FINAL 2020 2
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289051
-
-#EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://toppng.com/uploads/preview/visit-uefa-euro-2020-11568981573bfa5kxitr2.png",EURO FINAL 2020 3
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
@@ -284,15 +275,15 @@ http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
-#EXTINF:-1 group-title="MOVIES" tvg-id="401" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",FOX Movies HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="413" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",FOX Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 
-#EXTINF:-1 tvg-id="FOXFamilyMoviesHD" group-title="MOVIES" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png",FOX Family Movies HD
+#EXTINF:-1 tvg-id="414" group-title="MOVIES" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png",FOX Family Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
-#EXTINF:-1 tvg-id="FOXActionMoviesHD" group-title="MOVIES" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies HD
+#EXTINF:-1 tvg-id="415" group-title="MOVIES" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
