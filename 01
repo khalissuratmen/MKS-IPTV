@@ -37,15 +37,20 @@ http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV6" group-title="ENTERTAINMENT" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="147"tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png",DidikTV KPM
+http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
 
-#EXTINF:-1 tvg-id="147" group-title="EDUCATION" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
-https://mediahomes.github.io/assets/my/ch_ntv7.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="Chinese Variety" tvg-id="148" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
+http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 
-#EXTINF:-1 tvg-id="148" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV
-https://mediahomes.github.io/assets/my/ch_8tv.m3u8
-
-#EXTINF:-1 tvg-id="149" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
-https://mediahomes.github.io/assets/my/ch_tv9.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="148" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
+http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="ENTERTAINMENT" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",Drama Sangat
 http://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
