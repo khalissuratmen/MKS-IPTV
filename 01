@@ -756,13 +756,13 @@ https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720
 ############### BEIN SPORTS #################
 
 #EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 1
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289047
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289637
 
 #EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 2
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289049
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289638
 
 #EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 3
-http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289051
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289639
 
 #EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 4
 http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289053
