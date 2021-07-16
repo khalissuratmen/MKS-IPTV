@@ -543,6 +543,16 @@ http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
+#EXTINF:-1 tvg-id="" group-title="FAMILY_KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FAMILY_KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",Disney XD
+http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FAMILY_KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png",Disney Junior
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="501" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
