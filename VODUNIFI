@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="https://github.com/weareblahs/univod-guide/raw/main/vod.xml" url-tvg="https://github.com/weareblahs/univod-guide/raw/main/vod.xml" refresh="1440"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWRjNjY0NGYtOWE0Ni0zY2ZlLTkzOTYtZWVmMDE3MjYzZGIx
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
 #EXTINF:-1 type="series" tvg-id="41757277" group-title="Snek: #TanyaSaya" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200323/20200323031143041kcq_op.jpg", #TanyaSaya S01E01
 http://1.9.62.158/88888888/16/20200306/268687800/268687800.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWRjNjY0NGYtOWE0Ni0zY2ZlLTkzOTYtZWVmMDE3MjYzZGIx
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
 #EXTINF:-1 type="series" tvg-id="41757277" group-title="Snek: #TanyaSaya" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200323/20200323031143041kcq_op.jpg", #TanyaSaya S01E02
 http://1.9.62.158/88888888/16/20200322/268690623/268690623.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OWRjNjY0NGYtOWE0Ni0zY2ZlLTkzOTYtZWVmMDE3MjYzZGIx
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
 #EXTINF:-1 type="series" tvg-id="49794158_01" group-title="Snek: MMU Shorties" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202106/20210608/2021060809333184736t_op.jpg", Air
 http://1.9.62.158/88888888/16/20210602/268744907/268744907.mpd
 
