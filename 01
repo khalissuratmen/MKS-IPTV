@@ -730,12 +730,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
 http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
 
-#EXTINF:-1 tvg-id="unifiSports4" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034705029kh8.png",unifi Sports 4
+#EXTINF:-1 tvg-id="unifiSports4" group-title="SPORTS" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175936849u0i.png",unifi Sports 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
 http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 
-#EXTINF:-1 tvg-id="unifiSports5" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200223/20200223031129462i1k.png",unifi Sports 5
+#EXTINF:-1 tvg-id="unifiSports5" group-title="SPORTS" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175600988bln.png",unifi Sports 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
