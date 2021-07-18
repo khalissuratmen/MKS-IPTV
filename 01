@@ -15,11 +15,10 @@ http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="102" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-# #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-# #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
-# http://1.9.62.158/PLTV/88888888/224/3221227490/3221227490.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
+https://web.hypp.tv/PLTV/88888888/224/3221227815/3221227815.mpd
 
 #EXTINF:-1 tvg-id="102" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 (Backup)
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
