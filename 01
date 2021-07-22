@@ -723,29 +723,29 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6791
 #EXTINF:-1 group-title="SPORTS" tvg-id="817" tvg-chno="817" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
 http://1.9.62.173/PLTV/88888888/224/3221227634/3221227634.mpd
 
-#EXTINF:-1 tvg-id="unifiSports1" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034140282its.png",unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
+#EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709180917156kdl.png",unifi Sports 1 HD
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
 
-#EXTINF:-1 tvg-id="unifiSports2" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200223/20200223030942343uz5.png",unifi Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
+#EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/202107091805315962ck.png",unifi Sports 2 HD
 http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
 
-#EXTINF:-1 tvg-id="unifiSports3" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034638064fgd.png",unifi Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
+#EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709052952183il3.png",unifi Sports 3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
 
-#EXTINF:-1 tvg-id="unifiSports4" group-title="SPORTS" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175936849u0i.png",unifi Sports 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
+#EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175936849u0i.png",unifi Sports 4 HD
 http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 
-#EXTINF:-1 tvg-id="unifiSports5" group-title="SPORTS" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175600988bln.png",unifi Sports 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
+#EXTINF:-1 group-title="Sports: Tokyo 2020 Olympics" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175600988bln.png",unifi Sports 5 HD
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
