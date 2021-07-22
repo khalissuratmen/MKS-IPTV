@@ -22,8 +22,8 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|R
 https://web.hypp.tv/PLTV/88888888/224/3221227815/3221227815.mpd
 
 #EXTINF:-1 tvg-id="102" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 (Backup)
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
-# http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+# https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 # http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -57,8 +57,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="ENTERTAINMENT" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",Drama Sangat
-https://pcccw.github.io/Ark/M3U8/Token/MY/DramaSangat.m3u8|Referer=https://www.dailymotion.com
-# http://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
+http://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
+# https://pcccw.github.io/Ark/M3U8/Token/MY/DramaSangat.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="146" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
