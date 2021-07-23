@@ -765,6 +765,15 @@ http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/96
 #EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports AR 5
 http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/97
 
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports ENG 1
+http://istars.pro:80/0599655171/HuvOf99spm/223675
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports ENG 2
+http://istars.pro:80/0599655171/HuvOf99spm/223679
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports ENG 3
+http://istars.pro:80/0599655171/HuvOf99spm/223683
+
 ############### TSN SPORTS #################
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-1 HD
