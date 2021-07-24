@@ -814,19 +814,23 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39308.ts
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/960
+# http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39308.ts
 # http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1262
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39309.ts
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/824
+# http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39309.ts
 # http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1274
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39312.ts
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/961
+# http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39312.ts
 # http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1709
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
-http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39311.ts
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/823
+# http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39311.ts
 # http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/95868
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 5
