@@ -2,7 +2,7 @@
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDcyYTI5M2ItNzA5Ni0zNzQzLTg5Y2QtNDQ1ZmY4ZGNhNWUz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=N2U5NmRlN2UtM2E1Mi0zYjA2LWJjNTctZjRiMjljZmQyYjNh
 #EXTINF:-1 group-title="Preview Channel" tvg-id="100" tvg-chno="100" tvg-logo="https://i.pinimg.com/originals/06/88/4c/06884c6f8d44cb3c03ab5e84ee85e593.png",MKS IPTV 
 http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd
 
